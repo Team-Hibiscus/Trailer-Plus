@@ -1,0 +1,13 @@
+filename = 'logtellrawcommand-1.20-1.0.4.jar'
+name = 'Logtellraw Command'
+side = 'both'
+
+[download]
+hash = 'fde78c970a22bbc23ea9491d5d42ca6bc3d20f7755ee06c774f0fb154258f675b77e7fed3875937a5db621958656ad2855a51c2d85971281382e097c4ed169bf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/InbY51NR/versions/RW45J38P/logtellrawcommand-1.20-1.0.4.jar'
+
+[update.modrinth]
+mod-id = 'InbY51NR'
+version = 'RW45J38P'

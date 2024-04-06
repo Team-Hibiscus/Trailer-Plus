@@ -1,0 +1,32 @@
+version = 1
+enableSodiumMenu = true
+cloudCulling = true
+signTextCulling = true
+rainCulling = true
+useBlockStateCulling = true
+useCustomItemFrameRenderer = true
+itemFrameMapCulling = true
+useItemFrameLOD = true
+itemFrameLODRange = 20
+useItemFrame3FaceCulling = true
+itemFrame3FaceCullingRange = 3.4641016
+leavesCullingMode = "FAST"
+leavesCullingAmount = 4
+includeMangroveRoots = false
+powderSnowCulling = true
+endGatewayCulling = true
+beaconBeamCulling = true
+entityModelCulling = false
+useOnModdedBlocksByDefault = true
+
+[modCompatibility]
+lootr = true
+woods_and_mires = true
+blast = true
+grassoverhaul = true
+milk = true
+create = true
+natures_spirit = true
+carpeted = true
+minecraft = true
+betterlily = true

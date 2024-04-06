@@ -1,0 +1,13 @@
+filename = 'tempest-fabriquilt-1.20.1-0.1.12.jar'
+name = 'Tempest'
+side = 'both'
+
+[download]
+hash = '92039f69ecc0771fd959c71ee88bd11e5a1ebe4d099ba097cb7fbb200a222f138569429a0ea0ad2db9bb2c0788f8a9599fe758524f114e86578b5f7356b53597'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YuZD6Tkx/versions/s2Bl2rjw/tempest-fabriquilt-1.20.1-0.1.12.jar'
+
+[update.modrinth]
+mod-id = 'YuZD6Tkx'
+version = 's2Bl2rjw'

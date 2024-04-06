@@ -1,0 +1,13 @@
+filename = 'smoothskies-1.1.0.jar'
+name = 'Smooth Skies'
+side = 'client'
+
+[download]
+hash = '8e48c83695ee530144a89836d7fead2dc9cee28194abf33d76cda63b6885e875173d9a9df5f308eef6338b5b9ef7162d8591c7450982756a5040576908bfec23'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uvlgIwBD/versions/7ZqhEuGd/smoothskies-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'uvlgIwBD'
+version = '7ZqhEuGd'

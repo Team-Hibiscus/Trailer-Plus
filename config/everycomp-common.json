@@ -1,0 +1,96 @@
+{
+  "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config",
+  "general": {
+    "creative_tab": true,
+    "assets_depend_on_loaded_packs": true,
+    "save_debug_resources": false,
+    "debug_packet": false,
+    "tooltips": {
+      "mod_origin_enabled": true,
+      "block_type_enabled": true,
+      "show_on_advanced_tooltips": false
+    },
+    "types": {
+      "cake": {
+        "natures_spirit.cheese_block": true,
+        "ubesdelight.ube_cake": true,
+        "farmersrespite.coffee_cake": true,
+        "cakedelight.ekac": true
+      },
+      "wood_type": {
+        "natures_spirit.redwood": true,
+        "natures_spirit.sugi": true,
+        "natures_spirit.wisteria": true,
+        "natures_spirit.fir": true,
+        "natures_spirit.willow": true,
+        "natures_spirit.aspen": true,
+        "natures_spirit.maple": true,
+        "natures_spirit.cypress": true,
+        "natures_spirit.olive": true,
+        "natures_spirit.joshua": true,
+        "natures_spirit.ghaf": true,
+        "natures_spirit.palo_verde": true,
+        "natures_spirit.coconut": true,
+        "natures_spirit.cedar": true,
+        "natures_spirit.larch": true,
+        "natures_spirit.mahogany": true,
+        "natures_spirit.saxaul": true,
+        "pearfection.callery": true
+      },
+      "leaves_type": {
+        "natures_spirit.redwood": true,
+        "natures_spirit.sugi": true,
+        "natures_spirit.wisteria": true,
+        "natures_spirit.white_wisteria": true,
+        "natures_spirit.blue_wisteria": true,
+        "natures_spirit.pink_wisteria": true,
+        "natures_spirit.purple_wisteria": true,
+        "natures_spirit.part_white_wisteria": true,
+        "natures_spirit.part_blue_wisteria": true,
+        "natures_spirit.part_pink_wisteria": true,
+        "natures_spirit.part_purple_wisteria": true,
+        "natures_spirit.fir": true,
+        "natures_spirit.willow": true,
+        "natures_spirit.aspen": true,
+        "natures_spirit.red_maple": true,
+        "natures_spirit.orange_maple": true,
+        "natures_spirit.yellow_maple": true,
+        "natures_spirit.cypress": true,
+        "natures_spirit.olive": true,
+        "natures_spirit.joshua": true,
+        "natures_spirit.ghaf": true,
+        "natures_spirit.palo_verde": true,
+        "natures_spirit.coconut": true,
+        "natures_spirit.cedar": true,
+        "natures_spirit.larch": true,
+        "natures_spirit.yellow_larch": true,
+        "natures_spirit.mahogany": true,
+        "natures_spirit.saxaul": true,
+        "blossom.flowering_oak": true,
+        "pearfection.callery": true,
+        "pearfection.flowering_callery": true
+      }
+    },
+    "entries": {
+      "wood_type": {
+        "another_furniture.table": true,
+        "friendsandfoes.beehive": true,
+        "another_furniture.flower_box": true,
+        "another_furniture.shelf": true,
+        "hearth_and_home.parquet": true,
+        "hearth_and_home.vertical_trim": true,
+        "create.window": true,
+        "hearth_and_home.trim": true,
+        "farmersdelight.cabinet": true,
+        "another_furniture.drawer": true,
+        "create.window_pane": true,
+        "another_furniture.shutter": true,
+        "hearth_and_home.sanded_wood": true,
+        "another_furniture.bench": true,
+        "hearth_and_home.lattice": true,
+        "another_furniture.chair": true
+      },
+      "leaves_type": {}
+    }
+  }
+}

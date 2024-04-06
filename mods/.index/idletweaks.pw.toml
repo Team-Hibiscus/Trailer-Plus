@@ -1,0 +1,13 @@
+filename = 'IdleTweaks-1.0.8.jar'
+name = 'Idle Tweaks'
+side = 'client'
+
+[download]
+hash = '0e0c47accd87bf75894bbd02221893dd17a41bbdd5ff330a4441da34284bca8db1d0bd1eaf6191909ba9d48b343466eafc22fa22622ac7bbe5a32a12176b705a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Vnjlu1sC/versions/yB1BhIKq/IdleTweaks-1.0.8.jar'
+
+[update.modrinth]
+mod-id = 'Vnjlu1sC'
+version = 'yB1BhIKq'

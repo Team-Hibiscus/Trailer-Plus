@@ -1,0 +1,16 @@
+{
+  "regexes": [],
+  "phrases": [],
+  "words": [],
+  "standAloneWords": [],
+  "replacementChars": [],
+  "mutedPlayers": [],
+  "tempMutedPlayers": [],
+  "ignoredPlayers": [],
+  "logFiltered": true,
+  "ignorePrivateMessages": false,
+  "caseSensitive": false,
+  "muteCommand": true,
+  "tellPlayer": true,
+  "censorAndSend": false
+}

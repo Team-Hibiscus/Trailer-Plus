@@ -1,0 +1,20 @@
+{
+  general: {
+    enabled: false,
+    serverLanguage: "auto",
+    clientLanguage: "en",
+    translationTooltip: false
+  },
+  processing: {
+    desugar: false,
+    receivingRegex: "",
+    receivingRegexIsBlacklist: true,
+    sendingRegex: "",
+    sendingRegexIsBlacklist: true
+  },
+  advanced: {
+    cacheSize: 256,
+    async: true,
+    debugLogs: false
+  }
+}

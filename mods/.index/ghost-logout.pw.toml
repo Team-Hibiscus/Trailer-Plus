@@ -1,0 +1,13 @@
+filename = 'ghostLogout-0.1.0+1.20.1.jar'
+name = 'Ghost Logout'
+side = 'server'
+
+[download]
+hash = 'd7448346d35d4e33e167ce89eaff34836246cab8c94557874fe1fde67c1c001b9e31741b317423d4ee064d0b067fe5978f1f16ab73c85e912e94cd2c4cb676bf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mpscPf9E/versions/giA1skiv/ghostLogout-0.1.0%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'mpscPf9E'
+version = 'giA1skiv'

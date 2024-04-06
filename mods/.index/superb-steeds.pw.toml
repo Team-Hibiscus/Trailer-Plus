@@ -1,0 +1,13 @@
+filename = 'superbsteeds-1.20-3.jar'
+name = 'Superb Steeds'
+side = 'both'
+
+[download]
+hash = '5812b4372b20afcb6da6443f9e41d356c94e63dcfab0f5734adb9bdcc84374a3a0a16d10563bc13a8f3e03a5427e3cdb4c3749982bec86402375e44fa24ef204'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UIZkbR3j/versions/rt3JrBEP/superbsteeds-1.20-3.jar'
+
+[update.modrinth]
+mod-id = 'UIZkbR3j'
+version = 'rt3JrBEP'

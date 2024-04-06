@@ -1,0 +1,13 @@
+filename = 'where-are-we-now-1.0.0.jar'
+name = 'Where Are We Now?'
+side = 'both'
+
+[download]
+hash = '5f91eb486945374d811ff089d08c2197e242208ad67184ba139d3944dbfce440a562091fcfd39f5086924944dfadec2e4d58d470ed7b511dec4a59d1e94dfeb2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rMpzpXZU/versions/NVvPkyLI/where-are-we-now-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'rMpzpXZU'
+version = 'NVvPkyLI'

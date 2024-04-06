@@ -1,0 +1,10 @@
+enabled = false
+# Whether or not the vertical hotbar is enabled
+
+upsideDown = false
+# Whether or not the vertical hotbar is upside-down
+# Making the hotbar more customizable
+
+# Offhand slot at:
+# 	Main hand right	- false: top,		true: bottom
+# 	Main hand left	- false: bottom,	true: top

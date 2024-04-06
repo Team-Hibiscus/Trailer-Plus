@@ -1,0 +1,13 @@
+filename = 'heartymeals-1.20-6.jar'
+name = 'Hearty Meals'
+side = 'both'
+
+[download]
+hash = '3d53231041f71a2db2e5b1b8f39ceecd5885ce26af50fa551494703afed3207b55f990593d5a938e63b547045f8d6595f74716c8dbc963d3569bf9cf7076ab79'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SDrTYSvS/versions/pNlob2NZ/heartymeals-1.20-6.jar'
+
+[update.modrinth]
+mod-id = 'SDrTYSvS'
+version = 'pNlob2NZ'

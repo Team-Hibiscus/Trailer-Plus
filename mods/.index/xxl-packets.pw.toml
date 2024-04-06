@@ -1,0 +1,13 @@
+filename = 'xlpackets-1.0.4-1.20.x.jar'
+name = 'XXLPackets'
+side = 'both'
+
+[download]
+hash = '46d8b05a760db56e4de5da8df1360bc35ccd4a75f177b79ffe29ccccc6fc111d60171f79e0e35a6f0fe4828ecf21ae308b50290823afc98e03c302893ea83e04'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SeCuopwJ/versions/wOstXV7Q/xlpackets-1.0.4-1.20.x.jar'
+
+[update.modrinth]
+mod-id = 'SeCuopwJ'
+version = 'wOstXV7Q'

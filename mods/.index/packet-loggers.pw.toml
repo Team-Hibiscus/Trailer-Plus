@@ -1,0 +1,13 @@
+filename = 'packet-logger-1.0.0.jar'
+name = 'Packet Logger'
+side = 'client'
+
+[download]
+hash = 'c1e8b3759349e70fbb076d2fccd8f84a3957508c31fabab94d80b025485f8a0421cc33bf0f6b696c7786467ae85ffaa03873c791f037b230c6b8078213cfd6f0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BUArYvHT/versions/t1ftYoRY/packet-logger-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'BUArYvHT'
+version = 't1ftYoRY'

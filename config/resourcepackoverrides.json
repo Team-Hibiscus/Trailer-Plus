@@ -1,0 +1,77 @@
+{
+  // Make sure to remove any comments when using this example as a template as .json does not support comments
+  "schema_version": 1,
+  "failed_reloads_per_session": 5,
+  // These two packs will be enabled by default when "options.txt" is first created or when resource reloading fails and is reset to a bare-bones state
+  // Packs included here can still be manually disabled by the user, this can be prevented with overrides below though
+  "default_packs": [
+    "file/Modded Bare Bones"
+  ],
+  // All packs will show as compatible with the current Minecraft version and will not display a warning when enabled
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    // The title and description are overridden for the vanilla assets pack
+    "vanilla": {
+      "title": "\"Vanilla Assets\"",
+      "description": "\"Resource pack from Minecraft\"",
+      "hidden": true,
+      "default_position": "BOTTOM",
+      "force_compatible": true,
+      "fixed_position": true,
+      "required": true
+    },
+    // The resource pack provided by the current server is added below user enabled resource packs
+    // Also allows for being moved up or down on the pack selection screen instead of being fixed
+    "file/Modded Bare Bones": {
+      "default_position": "TOP",
+      "force_compatible": true,
+      "fixed_position": true,
+      "required": true
+    },
+    // A new group is defined, the id is arbitrary
+    "1": [
+	"betterbeds/connectedbeds",
+	"betterbeds/fancybeds",
+	"betterbeds/fancyconnectedbeds",
+	"black_icons",
+	"classic_icons",
+	"continuity/default",
+	"continuity/glass_pane_culling_fix",
+	"create/legacy_copper",
+	"enchancement/alternate_dash",
+	"lambdabettergrass/default",
+	"seasons/seasonal_lush_caves",
+	"white_icons",
+	"potionparticlepack/legacy_colors",
+	"minecraft/physicsmod",
+	"programmer_art",
+	"high_contrast",
+	"telepistons/sticky_sides",
+	"telepistons/scissor_pistons",
+	"telepistons/bellows_pistons",
+	"simply-no-shading/simply_no_entity_like_shading",
+	"natures_spirit/better_leaves_compatibility"
+    ],
+    // Attributes are configured for all packs in group "1"
+    // Note that referencing a group id must begin with "$"
+    "$1": {
+      "hidden": true,
+      "required": false
+    },
+   // A new group is defined, the id is arbitrary
+    "2": [
+	"telepistons/enable_steam",
+	"minecraft/highlight_extended",
+	"presencefootsteps/default_sound_pack"
+    ],
+    // Attributes are configured for all packs in group "1"
+    // Note that referencing a group id must begin with "$"
+    "$2": {
+      "hidden": true,
+      "fixed_position": true,
+      "required": true
+    }
+  }
+}

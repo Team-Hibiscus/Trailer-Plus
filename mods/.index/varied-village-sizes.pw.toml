@@ -1,0 +1,13 @@
+filename = 'varied-village-sizes-1.0.jar'
+name = 'Varied Village Sizes'
+side = 'both'
+
+[download]
+hash = '2f3af093b60d4bb16570306abe27d68bc9b6b9a3d4ff64b0af088ad9109cd657683d9fe63524877ab8593798175d22963ce1f5b303356bd15ef317285d2e4e71'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Y3xLnQvT/versions/wcJ1pdgW/varied-village-sizes-1.0.jar'
+
+[update.modrinth]
+mod-id = 'Y3xLnQvT'
+version = 'wcJ1pdgW'

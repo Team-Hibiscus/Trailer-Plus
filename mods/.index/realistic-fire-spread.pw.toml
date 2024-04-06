@@ -1,0 +1,13 @@
+filename = 'realisticfirespread-1.20-1.jar'
+name = 'Realistic Fire Spread'
+side = 'both'
+
+[download]
+hash = '0f82b8286fbdac19be554caf45b0d2f8905ccea85d9e246ce5e926548b04973b8fb656dd24167af5b6ad39b0488c1d5cdfdf2d18026eb30c71eed6bf933404d7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7JCIgcfe/versions/EWr2VD1A/realisticfirespread-1.20-1.jar'
+
+[update.modrinth]
+mod-id = '7JCIgcfe'
+version = 'EWr2VD1A'
